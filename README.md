@@ -1,7 +1,7 @@
 # brand
 
 
-![brand](https://user-images.githubusercontent.com/102182778/173525916-9853d21a-f60e-4554-b10b-18c9ec5affab.PNG)
+![brand](https://github.com/KhatarMalayki/Images/blob/main/Brand_Display.jpeg)
 
 
 A new Flutter project.
